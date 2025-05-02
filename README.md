@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **FULL STACK WEB DEVELOPMENT**
 
+- 👨‍💻 All of my Javascript projects are available at [https://github.com/Ganeshbhargav/Javascript](https://github.com/Ganeshbhargav/Javascript)
+
 - 📫 How to reach me **ganeshbhargav619@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
