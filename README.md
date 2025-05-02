@@ -38,4 +38,5 @@ I'm constantly exploring new tools and frameworks to improve my skills and stay 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshbhargav&show_icons=true&locale=en&layout=compact" alt="ganeshbhargav" /></p>
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshbhargav&show_icons=true&locale=en" alt="ganeshbhargav" /></p>
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshbhargav&" alt="ganeshbhargav" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshbhargav&" alt="ganeshbhargav" /></p>
+
