@@ -5,14 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshbhargav" alt="ganeshbhargav" /></a> </p>
 
-- 🌱 I’m currently learning **FULL STACK WEB DEVELOPMENT**
+<h2> 🧑‍💻About Me</h2>
+Hi! I'm Ganesh Bhargav Arani, a self-taught full stack developer passionate about building clean, responsive, and user-friendly web applications. I love turning ideas into reality using modern web technologies and enjoy both the creative and logical aspects of development.
 
-- 👨‍💻 All of my Javascript projects are available at [https://github.com/Ganeshbhargav/Javascript](https://github.com/Ganeshbhargav/Javascript)
+I'm constantly exploring new tools and frameworks to improve my skills and stay current with industry trends. Whether it's front-end design or back-end logic, I enjoy crafting seamless digital experiences that make an impact.
 
-- 📫 How to reach me **ganeshbhargav619@gmail.com**
+📫 How to reach me **ganeshbhargav619@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/_ganesh_bhargav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ganesh_bhargav" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ganeshbhargav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ganeshbhargav" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ganeshbhargav619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ganeshbhargav619" height="30" width="40" /></a>
 </p>
