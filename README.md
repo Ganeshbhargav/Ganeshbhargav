@@ -14,7 +14,7 @@ I'm constantly exploring new tools and frameworks to improve my skills and stay 
 📫 How to reach me **ganeshbhargav619@gmail.com**
 </p>
 
-[![Resume](https://img.shields.io/badge/View-Resume-blue)](https://github.com/your-username/your-repo-name/blob/main/assets/resume.pdf)
+[![Resume](https://img.shields.io/badge/View-Resume-blue)](https://github.com/Ganeshbhargav/Ganeshbhargav/blob/main/Ganesh_Bhargav_Arani_Resume.pdf)
 
 <h2 align="left">📁 Projects</h2>
 <ul>
