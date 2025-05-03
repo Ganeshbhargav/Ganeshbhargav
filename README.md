@@ -13,7 +13,8 @@ I'm constantly exploring new tools and frameworks to improve my skills and stay 
 
 📫 How to reach me **ganeshbhargav619@gmail.com**
 </p>
-## My Resume
+
+My Resume
 
 [![Resume](https://img.shields.io/badge/View-Resume-blue)](https://github.com/Ganeshbhargav/Ganeshbhargav/blob/main/Ganesh_Bhargav_Arani_Resume.pdf)
 
