@@ -26,7 +26,13 @@ My Resume
 
   <li><B>JAVASCRIPT PROJECTS</B></li>
   <P>Dive into the world of interactivity with my JavaScript projects! This folder contains mini-projects that focus on creating dynamic, engaging, and responsive features for websites. From handling user inputs to updating the DOM in real-time, each project showcases how JavaScript powers modern web applications.</P>
-  <P>📁JAVASCRIPT PROJECTS-><a href="https://github.com/Ganeshbhargav/Javascript">Click Here</a></P>
+  <P>📁JAVASCRIPT PROJECTS->
+    
+   [![View](https://img.shields.io/badge/View-grey?style=for-the-badge)](https://github.com/Ganeshbhargav/Javascript)
+[![JavaScriptProjects](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge)](https://github.com/Ganeshbhargav/Javascript)
+  </P>
+
+  
 </ul>
 
 
