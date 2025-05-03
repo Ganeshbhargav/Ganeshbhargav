@@ -22,13 +22,11 @@ My Resume
 <ul>
   <li><B>HTML, CSS ,BOOTSTRAP PROJECTS</B></li>
   <P>This repository is a collection of my web development projects built using HTML, CSS, and Bootstrap. Each folder contains individual mini-projects that helped me strengthen my frontend skills and learn responsive design techniques.</P>
-<P>📁HTML-CSS-BOOTSTRAP PROJECTS</P>
  
   [![View Projects](https://img.shields.io/badge/View-Projects-blue)](https://github.com/Ganeshbhargav/Html_CSS_Bootstrap)
 
   <li><B>JAVASCRIPT PROJECTS</B></li>
   <P>Dive into the world of interactivity with my JavaScript projects! This folder contains mini-projects that focus on creating dynamic, engaging, and responsive features for websites. From handling user inputs to updating the DOM in real-time, each project showcases how JavaScript powers modern web applications.</P>
-  <P>📁JAVASCRIPT PROJECTS->
 
    [![View Projects](https://img.shields.io/badge/View-Projects-blue)](https://github.com/Ganeshbhargav/Javascript)
   </P>
