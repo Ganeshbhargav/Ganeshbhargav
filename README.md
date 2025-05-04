@@ -14,7 +14,10 @@ Hi! I'm Ganesh Bhargav Arani, a self-taught full stack developer passionate abou
 
 I'm constantly exploring new tools and frameworks to improve my skills and stay current with industry trends. Whether it's front-end design or back-end logic, I enjoy crafting seamless digital experiences that make an impact.
 
-📫 How to reach me **ganeshbhargav619@gmail.com**
+ <P> 📫 How to reach me </p>
+<p><a href="mailto:ganeshbhargav619@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-ganeshbhargav619@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 My Resume
@@ -38,12 +41,33 @@ My Resume
 </ul>
 
 
-<h4 align="left">Connect with me:</h4>
+## Connect me via:
+
 <p align="left">
-<a href="https://instagram.com/_ganesh_bhargav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ganesh_bhargav" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ganeshbhargav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ganeshbhargav" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ganeshbhargav619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ganeshbhargav619" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ganesh-bhargav-arani-397678275/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-Ganesh Bhargav Arani-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ganeshbhargav619@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-ganeshbhargav619@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <br />
+  <a href="https://github.com/Ganeshbhargav" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-Ganesh bhargav-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+ 
+<a href="https://www.hackerrank.com/ganeshbhargav619" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-ganeshbhargav619-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+</a>
+
+
+ <a href="https://www.codechef.com/users/ganeshbhargav" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-Ganeshbhargav-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+</a>
+
 </p>
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
