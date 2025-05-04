@@ -3,7 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshbhargav&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshbhargav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshbhargav" alt="ganeshbhargav" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ganeshbhargav&theme=nord&column=3&margin-w=15&margin-h=15" alt="ganeshbhargav" />
+  </a>
+</p>
+
+
+
 
 <h2 align="left"> 🧑‍💻About Me</h2>
 <p align="left">
